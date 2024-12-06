@@ -160,4 +160,8 @@
         position: initial;
         margin-bottom: 10px;
     }
+    .formacao-container::after{
+        width: 95px;
+        height: 95px;
+    }
 }
